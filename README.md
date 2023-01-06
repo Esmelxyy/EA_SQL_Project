@@ -10,4 +10,4 @@ At the end of this project, we attached a Tableau display sheet to show our find
 1) Role-Playing genre will have a high potential to help EA capture a larger market share
 2) Action genre will have low potential to help EA capture a larger market share
 
-Overall, this project can be used as a reference of how to conduct a comprehensive EDA by using SQL with a logical storyline and how can we manipulate SQL queries to achieve our research goal.
+*This project can be used as a reference of how to conduct a comprehensive EDA by manipulating SQL queries with a logical storyline to ahieve our research goal.*
