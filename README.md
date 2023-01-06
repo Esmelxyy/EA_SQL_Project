@@ -1,7 +1,7 @@
 ## Project Title
 ### How can Electronic Arts increase its market share in the video game industry
 ## Overview
-This project was contributed by my group members and I during our first semester "BigQuery experiment toolbox" class at Boston University. 
+This project was contributed by my group members and I during our first semester "BA775 Business Analytics Toolbox" class at Boston University. 
 
 We utilized a video game sales dataset from Kaggle and decided to conduct a series of professional EDA by applying BigQuery mastery to discover some patterns among different video game companies. We chose Electronic Arts as our targeted company to analyze data on the sales of video games, and make data-driven decisions to find out the genre that has the potential to increase EA's market share in the video game industry.
 
